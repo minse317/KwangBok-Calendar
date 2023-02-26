@@ -7,9 +7,21 @@
 
 * {
   font-family: 'HSBombaram21-Regular';
+  overflow: hidden;
 }
 
 h1 {
   font-size: 5em;
   text-align: center;
+  margin: 20px auto 0 auto
+}
+
+.map {
+  text-align: center;
+}
+.mapimg {
+  align-items: center;
+  left: 50%;
+  width: 25em;
+  margin: 0;
 }
