@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import mpa from './map.jpg';
+import mpa from './map.png';
 
 function main() {
   return (
